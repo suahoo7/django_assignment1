@@ -1,2 +1,2 @@
-# work_0111_hansua
+# django_assignment1
 01/11/work
